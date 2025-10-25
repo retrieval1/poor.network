@@ -1,2 +1,2 @@
 # poor.network
-Portfolio site
+Portfolio site in progress :D
