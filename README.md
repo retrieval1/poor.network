@@ -1,2 +1,2 @@
 # poor.network
-Portfolio site in progress :D
+Portfolio site that's on hold because web dev is boring
