@@ -31,9 +31,7 @@ body {
   border-radius: 8px;
   overflow: hidden;
   background: #050505;
-  box-shadow:
-    0 0 40px rgba(51, 255, 119, 0.08),
-    0 20px 60px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.6);
 }
 
 .titlebar {

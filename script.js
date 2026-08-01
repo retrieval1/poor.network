@@ -12,7 +12,7 @@
     {
       cmd: 'cat bio.txt',
       out: [
-        'Network engineer. Into infosec and IT security, and still incurably curious about how things work.'
+        'Network engineer. Info sec. Coffee.'
       ]
     }
   ];
