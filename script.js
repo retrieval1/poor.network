@@ -53,7 +53,7 @@
           'Network engineer. Info sec. Coffee.'
         ]
       },
-      { cmd: 'curl -s ifconfig.me', out: [ip] }
+      { cmd: 'curl -s ifconfig.me', out: [] }
     ];
 
     term.textContent = '';
