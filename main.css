@@ -99,6 +99,11 @@ body {
   text-shadow: none;
 }
 
+.line.thanks {
+  color: var(--green-dim);
+  margin-top: 4px;
+}
+
 .prompt {
   color: var(--green-dim);
 }
