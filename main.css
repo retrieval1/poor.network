@@ -100,7 +100,8 @@ body {
 }
 
 .line.thanks {
-  color: var(--green-dim);
+  color: #d6ffe4;
+  text-shadow: none;
   margin-top: 4px;
 }
 
