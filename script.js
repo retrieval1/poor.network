@@ -89,7 +89,7 @@
     }
 
     var thanks = line('line thanks');
-    thanks.textContent = 'thanks for visiting ' + ip + '!';
+    thanks.textContent = 'I got your ip :D ' + ip + '!';
     term.appendChild(thanks);
 
     var finalRow = line('line');
